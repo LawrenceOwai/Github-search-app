@@ -7,6 +7,35 @@
   pointer-events: none;
 }
 
+.btn-danger{
+	background: linear-gradient(45deg, darkslategrey,red);
+}
+
+.btn-success{
+	background: linear-gradient( );
+}
+.btn-info{
+	background: linear-gradient(45deg, darkslategrey, rgb(128, 0, 96));
+}
+.btn-secondary{
+	background: linear-gradient(45deg, darkblue, rgb(128, 0, 96));
+}
+.btn-warning{
+  background-color: aquamarine;
+}
+h3{
+  text-align: center;
+}
+
+.search-button{
+  margin-left: 5px;
+}
+.container{
+ text-align: center;
+  ;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
